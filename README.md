@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: Hello World in Matthew Mcconaughey
 
-**Project Description**:
+**Project Description**: This program is designed to print out hello world, but in the style of Matthew Mcconaughey
 
-**Project Goals**:
+**Project Goals**: To print hello world in the style of Matthew Mcconaughey
 
 ## Instructions for Build and Use
 
